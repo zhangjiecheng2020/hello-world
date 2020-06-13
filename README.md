@@ -1,4 +1,4 @@
 # hello-world
 Getting familiarized with GitHub
 
-I am not sure that file type is .md
+I am not sure what file type is .md
